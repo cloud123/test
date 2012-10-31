@@ -1,0 +1,30 @@
+{
+  "maintainer_email": "YOUR_EMAIL",
+  "attributes": {
+  },
+  "providing": {
+  },
+  "platforms": {
+  },
+  "version": "0.0.1",
+  "replacing": {
+  },
+  "suggestions": {
+  },
+  "recommendations": {
+  },
+  "long_description": "Description\n===========\n\nRequirements\n============\n\nAttributes\n==========\n\nUsage\n=====\n\n",
+  "recipes": {
+    "fm::default": "Prints hello world output"
+  },
+  "maintainer": "YOUR_COMPANY_NAME",
+  "license": "All rights reserved",
+  "groupings": {
+  },
+  "name": "fm",
+  "dependencies": {
+  },
+  "description": "Installs/Configures fm",
+  "conflicting": {
+  }
+}
